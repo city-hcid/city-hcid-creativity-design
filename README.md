@@ -1,2 +1,2 @@
-# creativity-design-2018
+# creativity-design
 Repository for HCID MSc module: Creativity in Design
